@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+}
+h1 {
+    color: green;
+
+}
+h2 {
+    color: rgb(20, 20, 167);
+}
+ul{
+    padding: 10px;
+  list-style-type:circle;
+  /* background-color: rgb(227, 226, 230); */
+  display: inline-block;
+  /*Left align contents of list*/
+  text-align:left;
+    /* margin-left: center;
+    list-style-position:inside; */
+}
+h1,#Firma-adı{
+        font-family: "Sofia", sans-serif;
+    
+}
+h3 {
+    color: brown;
+}
